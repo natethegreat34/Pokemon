@@ -1,0 +1,214 @@
+body {
+  background-color:black;
+  background-image:
+  radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+  radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  overflow-x: hidden;
+
+}
+h1, h2, h3, h4, h5{
+  color: white;
+}
+
+.fire, .normal, .grass, .electric, .ice, .fairy, .fight, .steel, .bug, .pyschic, .fly{
+  color: black !important;
+}
+.water, .drag, .poison, .ghost, .dark{
+  color: white !important;
+}
+
+
+.fire{
+  background-color: red;
+}
+.normal{
+background-color:darkgray;
+  }
+.grass{
+ background-color: mediumseagreen;
+  }
+.electric{
+ background-color:yellow;
+  }
+.ice{
+ background-color: powderblue;
+}
+.fairy{
+ background-color: fuchsia;
+}
+.fight{
+background-color: darkorange;
+}
+.steel{
+ background-color: silver;
+}
+.pyschic{
+background-color: hotpink;
+}
+.fly{
+background-color: deepskyblue;
+}
+.bug{
+  background-color: forestgreen;
+}
+.water{
+ background-color: blue;
+}
+.drag{
+ background-color: darkcyan;
+}
+.poison{
+background-color: purple;
+}
+.ghost{
+background-color:darkviolet;
+}
+.dark{
+  background-color: black;
+}
+.ground{
+  background-color: darkkhaki;
+}
+
+
+
+.cin{
+  position: absolute;
+  left: 100px;
+  border: 1px solid white;
+}
+.gren{
+  position: absolute;
+  left: 600px;
+  border: 1px solid white;
+}
+.dec{
+  position: absolute;
+  left: 1100px;
+  border: 1px solid white;
+}
+.amp{
+  position: absolute;
+  left: 100px;
+  top: 975px;
+  border: 1px solid white;
+}
+.umb{
+  position: absolute;
+  left: 600px;
+  top: 975px;
+  border: 1px solid white;
+}
+.nin{
+  position: absolute;
+  left: 1100px;
+  top: 975px;
+  border: 1px solid white;
+}
+.oop{
+  position: absolute;
+  left: 100px;
+  top: 1800px;
+
+}
+.pif{
+  position: absolute;
+  left: 600px;
+  top: 1900px;
+}
+.dex{
+  background: white;
+  font-size: 18px;
+  position: absolute;
+  left:1100px;
+  top: 1900px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  min-width: 476px;
+  max-width: 476px;
+  min-height: 476px;
+  max-height: 476px;
+  overflow: auto;
+}
+.p{
+  height: 100px;
+  width: 100px;
+}
+.life{
+  position: absolute;
+  left:101px;
+  top: 2570px;
+}
+.life2{
+  position: absolute;
+  left:601px;
+  top: 2570px;
+}
+.life3{
+  position: absolute;
+  left:1101px;
+  top: 2570px;
+}
+.life4{
+  position: absolute;
+  left:101px;
+  top: 3145px;
+}
+.life5{
+  position: absolute;
+  left:601px;
+  top: 3145px;
+}
+.life6{
+  position: absolute;
+  left:1101px;
+  top: 3145px;
+}
+
+.one img, .two img, .three img, .four img, .five img, .six img{
+    height: 475px;
+    width: 475px;
+    opacity: 1.5;
+}
+
+.one{
+  position: absolute;
+  left:100px;
+  top: 2500px;
+  border: 1px solid white;
+}
+.two{
+  position: absolute;
+  left:600px;
+  top: 2500px;
+  border: 1px solid white;
+}
+.three{
+  position: absolute;
+  left:1100px;
+  top: 2500px;
+  border: 1px solid white;
+}
+.four{
+  position: absolute;
+  left: 100px;
+  top: 3075px;
+  border: 1px solid white;
+}
+.five{
+  position: absolute;
+  left: 600px;
+  top: 3075px;
+  border: 1px solid white;
+}
+.six{
+  position: absolute;
+  left: 1100px;
+  top: 3075px;
+  border: 1px solid white;
+}
